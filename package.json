@@ -1,0 +1,17 @@
+{
+  "name": "menuproyecto",
+  "version": "1.0.0",
+  "main": "plantilla.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nareth Tatiana Ramírez Fuentes",
+  "license": "ISC",
+  "description": "Proyecto dque gestiona un menú interactivo en la consola utilizando Node.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "readline-sync": "^1.4.10"
+  }
+}
